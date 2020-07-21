@@ -5,9 +5,9 @@ Dryad is governed by a 12 member Board of Directors and our [Bylaws](https://dat
 
 This repository contains Dryad governance information and documents, including:
 
-- [Board of Directors meeting minutes](meeting-minutes)
-- [Conflict of Interest forms for Directors](COIs)
-- [Annual reports](annual-reports)
+- [Board of Directors meeting minutes](meeting-minutes/index.md)
+- [Conflict of Interest forms for Directors](COIs/index.md)
+- [Annual reports](annual-reports/index.md)
 
 
 
