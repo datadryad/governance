@@ -1,6 +1,6 @@
 # Dryad governance information
 
-Dryad is governed by a 12 member Board of Directors and our [Bylaws](https://datadryad.org/docs/DryadBylaws.pdf). 
+Dryad is governed by a Board of Directors and our [Bylaws](https://datadryad.org/docs/DryadBylaws.pdf). 
 - [Current Board of Directors](https://datadryad.org/stash/our_governance)
 
 This repository contains Dryad governance information and documents, including:
