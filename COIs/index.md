@@ -2,7 +2,8 @@
 
 Dryad maintains Conflict of Interest (COI) statements for all Directors of the Board. 
 
-- [Current COI Information Form template](DryadConflictOfInterest-template2019.docx)
+- [Current COI Information Form template](DryadConflictOfInterest-template.pdf
+)
 - [Board member COIs](current/)
 
 
