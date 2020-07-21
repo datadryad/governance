@@ -1,4 +1,4 @@
-# Dryad Board of Director Meeting Minutes
+# Dryad Board of Directors Meeting Minutes
 
 Meeting minutes are organized by the year that coincides with board terms.
 
