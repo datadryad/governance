@@ -2,6 +2,7 @@
 
 Dryad produces annual reports on the state of the organization's operations.
 
+- [Annual Report for 2020](DryadAnnualReport2020.pdf)
 - [Annual Report for 2019](DryadAnnualReport2019.pdf)
 - [Annual Report for 2018](DryadAnnualReport2018.pdf)
 - [Annual Report for 2017](DryadAnnualReport2017.pdf)
