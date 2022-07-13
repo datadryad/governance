@@ -2,6 +2,7 @@
 
 Meeting minutes are organized by the year that coincides with board terms.
 
+- [2022-2023](2022-2023/)
 - [2020-2021](2020-2021/)
 - [2019-2020](2019-2020/)
 - [2018-2019](2018-2019/)
