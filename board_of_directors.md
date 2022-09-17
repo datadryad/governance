@@ -4,20 +4,7 @@ The current board is constituted of the most recent three classes. Each class of
 
 ## Current Board 
 
-#### Class of 2023
-Scott Edmunds, Brooks Hanson, Fiona Murphy, Judy Ruttenberg, Jason Williams
-#### Class of 2022
-Catriona MacCallum, Johan Nilsson, Naomi Penfold
-#### Class of 2021
-Wolfram Horstmann, Paolo Mangiafico, Caroline Sutton, Paul Uhlir
-#### Ex Officio (non-voting) members
-Günter Waibel
-
-2020-2021: Nilsson (chair), Murphy (vice-chair), Penfold (treasurer) and Williams (secretary)
-
-Committee Members
-Finance: Penfold (Chair), Mangiafico
-Governance: Nilsson (Chair), Murphy, Sutton
+https://datadryad.org/stash/our_governance
 
 
 ## Former Classes
