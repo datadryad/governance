@@ -1,0 +1,1 @@
+This direcotry containst policies regarding the nominations process, and board member seleciton and attendance policies.
